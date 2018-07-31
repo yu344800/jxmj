@@ -1,0 +1,67 @@
+---------后缀 cs 潮汕话  pt 普通话
+
+单张 	card_A/2/3/......
+小王	card_xw
+大王	card_dw
+
+------叫分
+
+杨牌 	card_yp
+包牌 	card_bp
+特震 	card_tz
+一条龙 	card_ytl
+过	card_guo_1/2
+
+------对子
+
+card_DA/2/3/......
+
+------三张
+
+card_SA/2/3/......
+
+------四带一
+
+card_SDY
+
+------三带一对
+
+card_SDYD
+
+------不要/要不起
+
+card_no1/2/3
+
+------叫牌色
+
+方块	card_fk	
+梅花	card_mh
+黑桃	card_heit
+红桃	card_hongt
+
+-----连对
+
+card_LD
+
+-----炸弹
+
+card_ZD
+
+-----报单
+
+card_one
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
